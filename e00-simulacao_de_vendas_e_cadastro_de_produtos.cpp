@@ -1,3 +1,7 @@
+/*
+ * Problema: Simulação de Vendas e Cadastro de Produtos
+ * Técnica/Algoritmo: Dicionário (std::map) para buscas eficientes
+ */
 #include <iostream>
 #include <iomanip>
 #include <map>

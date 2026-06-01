@@ -1,3 +1,7 @@
+/*
+ * Problema: Ranking de Geolocalização (Jogadores próximos a um ponto)
+ * Técnica/Algoritmo: Fórmula de Haversine e Fila de Prioridade (Min-Heap)
+ */
 #include <iostream>
 #include <string>
 #include <map>

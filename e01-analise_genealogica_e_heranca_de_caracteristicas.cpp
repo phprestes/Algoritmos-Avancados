@@ -1,3 +1,7 @@
+/*
+ * Problema: Análise Genealógica e Herança de Características
+ * Técnica/Algoritmo: Vetores e Estrutura de Grafos/Árvores
+ */
 #include <iostream>
 #include <vector>
 #include <string>

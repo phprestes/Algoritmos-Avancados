@@ -1,3 +1,7 @@
+/*
+ * Problema: Convex Hull (Fecho Convexo)
+ * Técnica/Algoritmo: Divisão e Conquista
+ */
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,7 @@
+/*
+ * Problema: Seleção de Atividades (Agendamentos Não Conflitantes)
+ * Técnica/Algoritmo: Radix Sort e Algoritmo Guloso (Activity Selection)
+ */
 #include <iostream>
 #include <vector>
 #include <tuple>

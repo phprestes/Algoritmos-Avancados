@@ -1,3 +1,7 @@
+/*
+ * Problema: Contagem de Inversões em um Vetor
+ * Técnica/Algoritmo: Adaptação do Algoritmo Merge Sort (Divisão e Conquista)
+ */
 #include <iostream>
 #include <algorithm>
 

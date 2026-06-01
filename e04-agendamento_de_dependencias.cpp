@@ -1,3 +1,7 @@
+/*
+ * Problema: Agendamento de Dependências (Quests de Heróis)
+ * Técnica/Algoritmo: Ordenação Topológica (Algoritmo de Kahn) em DAG
+ */
 #include <iostream>
 #include <algorithm>
 #include <string>

@@ -1,3 +1,7 @@
+/*
+ * Problema: Seleção Gulosa de Datas
+ * Técnica/Algoritmo: Radix Sort e Algoritmo Guloso
+ */
 #include <iostream>
 #include <vector>
 #include <iomanip>

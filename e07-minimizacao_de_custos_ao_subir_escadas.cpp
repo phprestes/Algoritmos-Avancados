@@ -1,3 +1,7 @@
+/*
+ * Problema: Minimização de Custos ao Subir Escadas
+ * Técnica/Algoritmo: Programação Dinâmica (1D)
+ */
 #include <iostream>
 #include <algorithm>
 
